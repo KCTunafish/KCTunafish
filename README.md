@@ -1,10 +1,12 @@
-[![KCT Banner Image](./assets/bannerimg.png)]
+![KCT Banner Image](./assets/bannerimg.png)
 
 
 ## Hello there! 👋
 
 I am **Kadmiel T. Castillo**, a student from **Cebu Institute of Technology - University** taking *BSIT*.
 Currently learning to code for a couple languages but I want to focus on Python (so I can make my own visual novel).
+I like to draw and do graphic design as a hobby.
+
 Still getting the hang of github as a newbie and will be adding more soon... 
 
 *page under construction...*⚙⚙⚙
