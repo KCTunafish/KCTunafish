@@ -9,7 +9,7 @@ I like to draw and do graphic design as a hobby.
 
 Still getting the hang of github as a newbie and will be adding more soon... 
 
-*page under construction...*⚙⚙⚙
+*page under construction...* ⚙⚙⚙
 <!--
 **BGTunafish/BGTunafish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
